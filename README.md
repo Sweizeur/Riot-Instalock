@@ -1,5 +1,5 @@
 # Valorant-Instalock
-Instalock an agent on Valorant
+Instalock an agent on Riot Games
 
 
 
