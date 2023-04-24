@@ -33,7 +33,9 @@ To use this script, simply run it with python:
 ```bash
 python3 instalock.py
 ```
+
 start by creating a new agent then create the location of the lock button, you can then delete, modify an agent or launch the instalock system.
+
 
 ## License
 
