@@ -26,7 +26,7 @@ git clone https://github.com/Sweizeur/Valorant-Instalock.git
 ```
 
 
-##Usage
+## Usage
 
 To use this script, simply run it with python:
 
