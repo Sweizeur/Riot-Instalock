@@ -22,7 +22,7 @@ pip3 install keyboard
 
 
 ```bash
-git clone https://github.com/Sweizeur/Valorant-Instalock.git
+git clone https://github.com/Sweizeur/Riot-Instalock.git
 ```
 
 
