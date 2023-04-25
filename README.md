@@ -1,4 +1,4 @@
-# Valorant-Instalock
+# Riot-Instalock
 Instalock an agent on Riot Games
 
 
